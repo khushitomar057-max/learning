@@ -1,3 +1,3 @@
 # learning
-<pwd>
-lead by khushi tomar
+<br>
+lead by khushi tomar ( github)
